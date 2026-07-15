@@ -18,9 +18,11 @@ OpenAI API Developer | AI Automation Developer | AI Agent Developer | FastAPI De
 
 ## Featured case studies
 
-- ReachFly.Ai - AI Outreach CRM and OpenAI Automation
-- AI Sales Automation Workflow - n8n, APIs, Webhooks, and CRM Logic
-- AI SaaS CRM Dashboard - OpenAI Automation, FastAPI, React, and Operational Analytics
+- [ReachFly.Ai - AI Outreach CRM and OpenAI Automation](https://github.com/umairinam76/ai-automation-case-studies#case-study-1-reachflyai---ai-outreach-crm-and-openai-automation)
+- [AI Sales Automation Workflow - n8n, APIs, Webhooks, and CRM Logic](https://github.com/umairinam76/ai-automation-case-studies#case-study-2-ai-sales-automation-workflow---n8n-apis-webhooks-and-crm-logic)
+- [AI SaaS CRM Dashboard - OpenAI Automation, FastAPI, React, and Operational Analytics](https://github.com/umairinam76/ai-automation-case-studies#case-study-3-ai-saas-crm-dashboard---openai-automation-fastapi-react-and-operational-analytics)
+
+Full case-study repository: https://github.com/umairinam76/ai-automation-case-studies
 
 ## Upwork profile
 
